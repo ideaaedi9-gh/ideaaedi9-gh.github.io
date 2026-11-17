@@ -1,0 +1,29 @@
+포트폴리오 v57 배포용 정리 보고서
+
+기준: v56 작품별 폴더 정리본
+정리 기준: HTML·CSS·JS 파일 내 파일명 미참조 항목, 중복 해시 확인
+제외한 파일: 11개 / 14.46 MiB
+
+삭제 대신 별도로 v56 ZIP을 백업으로 보관하세요.
+현재 레이아웃 및 HTML/JS/CSS는 변경하지 않았습니다.
+
+제외 파일 목록:
+- images/portfolio/02_reflower/reflower_thumb.jpg
+- images/portfolio/02_reflower/reflower_detail.jpg
+- images/portfolio/02_reflower/reflower_detail_full.jpg
+- images/portfolio/02_reflower/reflower_plan.pdf
+- images/portfolio/02_reflower/reflower_plan_v2.pdf
+- images/portfolio/06_chickendak/chickendak_thumb.jpg
+- images/portfolio/07_daegu_tv/daegu_tv_plan.png
+- images/portfolio/08_han_one_world/han_one_world_thumb.jpg
+- images/portfolio/08_han_one_world/kculture_thumb.jpg
+- images/portfolio/08_han_one_world/han_one_world_plan.pdf
+- images/portfolio/09_busan_fireworks/Busan_Fireworks_Poster.jpg
+
+보존 판단:
+- Pretendard 폰트와 favicon/앱 아이콘: 공통 자산으로 보존
+- AG/index0.html: 메인에서 참조되지 않지만 다른 버전의 HTML로 확인되어 보존
+- AG/first-special.webp: 메인 HTML 참조는 확인되지 않았지만 독립 사이트 자산으로 보존
+- 이미지·동영상·최신 기획 소개 페이지·사용 중인 PDF: 보존
+
+HTML 내 로컬 경로 검사: 0건의 미해결 경로

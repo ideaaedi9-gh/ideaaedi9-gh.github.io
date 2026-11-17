@@ -1,0 +1,12 @@
+KIMSOOYOUNG 포트폴리오 v59 — GitHub 업로드 안내
+
+1. 이전 v58은 백업으로 보관하세요.
+2. 이 ZIP을 완전히 압축 해제하세요. ZIP 자체를 GitHub에 올리지 마세요.
+3. 저장소 ideaaedi9-gh.github.io 의 kimsooyoung 폴더에 업로드해야 합니다.
+4. index.html, css, js, images 폴더가 모두 kimsooyoung 바로 아래에 있는지 확인하세요.
+5. GitHub 웹 업로드는 파일 개수가 많으면 일부가 누락될 수 있습니다. GitHub Desktop으로 전체 파일을 업로드하는 것을 추천합니다.
+6. GitHub Pages 설정: main / (root)
+7. 사이트 주소: https://ideaaedi9-gh.github.io/kimsooyoung/
+8. 변경 사항: MP4 4개 압축, 대형 소개 이미지 JPEG 최적화 및 HTML/CSS 참조 경로 업데이트, 새 로즈베이지 배경 적용
+
+주의: 원본 수정용으로 고화질 영상/이미지는 별도 보관하세요. 배포본은 웹용 압축 파일입니다.
