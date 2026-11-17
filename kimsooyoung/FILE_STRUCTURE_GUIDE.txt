@@ -1,0 +1,16 @@
+포트폴리오 v56 — 작품별 파일 정리
+
+images/portfolio 아래 폴더:
+01_digital_detox : 디지털 디톡스
+02_reflower : 다시, 꽃 (웹/상세페이지 + 광고영상)
+03_reve : REVE 화장품 광고
+04_haloway : HALOWAY 웨딩 앱
+05_ag_health : 안국건강 웹 디자인 (AG 폴더는 사이트 원본)
+06_chickendak : 치킨닥 브랜딩
+07_daegu_tv : 대구TV 리디자인
+08_han_one_world : 한 글자, 한 세상
+09_busan_fireworks : 부산 불꽃축제
+
+기존 작품 자료는 삭제하지 않았습니다. index.html과 HTML에서 사용되는 파일 경로를 변경했습니다.
+다음에 파일을 추가할 때는 해당 작품 폴더에 넣고 HTML의 경로를 맞춰주세요.
+GitHub Pages 공개 사이트는 이 ZIP 작업으로 자동 변경되지 않습니다.
